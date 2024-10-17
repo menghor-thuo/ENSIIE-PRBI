@@ -1,2 +1,2 @@
-# PRBI_ENSIIE
+# ENSIIE-Pattern recognition and Biometrics
 Practical work
